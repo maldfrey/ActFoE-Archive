@@ -1,5 +1,5 @@
 # Development archive for ActFoE++
-** A collection of notes documenting the creation process of ActFoE. See ActFoE-Standard for polished work work **
+**A collection of notes documenting the creation process of ActFoE. See ActFoE-Standard for polished work work**
 
 ActFoE (Action Follows Evidence) is a reasoning scaffold designed to help AI systems and human collaborators navigate moral decision-making with clarity, reproducibility, and transparency.  
 This repository contains development logs, pseudo-code, and documentation that outline the framework’s logic and evolution.
